@@ -20,4 +20,6 @@ public class GameInteractions {
 		match = new Match(player1, player2);
 
 	}
+	
+	
 }
